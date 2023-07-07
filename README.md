@@ -1,2 +1,2 @@
 # report_bot
-tg-bot sending report with Airflow
+tg-bot sending report with Airflow every morning
